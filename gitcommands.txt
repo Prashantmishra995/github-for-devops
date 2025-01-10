@@ -23,3 +23,56 @@
   30  restore tesing.py
   31 status
   32 history
+ Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\USL-SZ-121\AppData\Local\Programs\Microsoft VS Code\resources\a... 
+   2 python testing.py
+   3 ls
+   4 ls -l
+   5 ls -l
+   6 ls
+   7 rm testing.py
+   8 git init
+   9 dir -a
+  10 dir
+  11 ls
+  12 ls -a
+  13 dir -a
+  14 git status
+  15 python testing.py
+  16 git status
+  17 git add testing.py
+  18 git add tesing.py
+  19 git status
+  20 git rm --cached tesing.py
+  21 git status
+  22  git add tesing.py
+  23 git ststus
+  24 git status
+  25 git commit -m "add this file"
+  26 git status
+  27 rm tesing.py
+  28 ls
+  29 git status
+  30 git restore tesing.py
+  31 git status
+  32 git history
+  33 history
+  34 git add gitcommands.txt
+  35 git status
+  36 git commit -m  "this ths git command history"
+  37 git status
+  38 git remote add origin https:
+  40 git remote -v
+  41 git remote set-url origin https:
+  43 git remote set-url origin https://
+  44 git remote -v
+  45 git push origin master
+  46 git add pattern.py
+  47 git status
+  48 git commit -m "this is sample file"
+  49 git push origin master
+  50 histroy
+  51 git history
+  52 histroy
+  53 ls
