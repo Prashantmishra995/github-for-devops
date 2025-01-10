@@ -23,6 +23,7 @@
   30  restore tesing.py
   31 status
   32 history
+<<<<<<< HEAD
  Id CommandLine
   -- -----------
    1 try { . "c:\Users\USL-SZ-121\AppData\Local\Programs\Microsoft VS Code\resources\a... 
@@ -76,3 +77,7 @@
   51 git history
   52 histroy
   53 ls
+=======
+
+add new line this file
+>>>>>>> 1a4a97120271edd3b61ce5652e99920c04792736
